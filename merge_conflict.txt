@@ -1,4 +1,5 @@
-first line
+first line changed
 second line
-third line
-fourth line
+third amended 
+fourth line edited
+this line is new
